@@ -28,7 +28,7 @@ psycopg = "3.2"
 langchain-mcp-adapters = "*"
 superset-mcp-server = "0.1.0a5"
 langfuse = "*"
-PyJWT = "2.8.0"
+PyJWT = "2.15.0"
 dbt-graph-loader = "0.1.0a1"
 langchain-neo4j = "^0.4.0"
 
